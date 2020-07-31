@@ -25,8 +25,8 @@ export class BodyComponent implements OnInit {
   website: String[] = [
     'https://www.chennaisuperkings.com/', 
     'https://www.mumbaiindians.com/', 
-    'https://www.rajasthanrojals.com/',
-    'https://www.dehlicapitals.in/', 
+    'https://www.rajasthanroyals.com/',
+    'https://www.delhicapitals.in/', 
     'https://www.royalchallegers.com/', 
     'https://www.kkr.in/', 
     'https://www.kxip.in/',
